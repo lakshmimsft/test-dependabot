@@ -1,7 +1,7 @@
 version: 2
 updates:
   - package-ecosystem: "npm"
-    directory: "/typespec/"
+    directory: "/typespec"
     schedule:
       interval: "weekly"
     groups:
